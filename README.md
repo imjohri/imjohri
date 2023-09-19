@@ -39,7 +39,7 @@
 </div>
 
 ###
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation](https://media.licdn.com/dms/image/C5616AQGKRqra7NeiDQ/profile-displaybackgroundimage-shrink_200_800/0/1615773877368?e=2147483647&v=beta&t=Op-fX5tuYoUgTFZHlX6eKhDC0YueSFVulmdkJbXj5Y0)" />
+<img src="https://media.licdn.com/dms/image/C5616AQGKRqra7NeiDQ/profile-displaybackgroundimage-shrink_200_800/0/1615773877368?e=2147483647&v=beta&t=Op-fX5tuYoUgTFZHlX6eKhDC0YueSFVulmdkJbXj5Y0" alt="Snake animation" />
 
 ###
 
